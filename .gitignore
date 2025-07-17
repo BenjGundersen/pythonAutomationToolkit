@@ -1,3 +1,5 @@
 build/
 dist/
 sales_gui.spec
+regional_sales_data.xlsx
+regional_sales_summary.xlsx
